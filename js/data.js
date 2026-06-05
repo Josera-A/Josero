@@ -10,7 +10,7 @@ const productsData = {
     mini: 'Նախատեսված է նորածին ձագերի (1–2 ամսական) համար։',
     description: 'Պարունակում է սաղմոնի միս։ Հարմար է նաև հղիության և կաթնատվության շրջանում գտնվող շների համար։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_family_plus_mother_puppy_salmon_rice.webp'
+    image: 'pictures/dog/Dog&josera_family_plus_mother_puppy_salmon_rice.webp'
   },
   'josera_surf_turf_junior': {
     name: 'Josera Surf & Turf Junior',
@@ -18,7 +18,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի ձագուկների համար (2–15 ամսական)։',
     description: 'Պարունակում է սաղմոն և գառան միս։ Պարունակում է Լ-կարնիտին և թաուրին՝ սրտի առողջության համար։ DHA օմեգան նպաստում է ուղեղի զարգացմանը, տեսողությանը և հիշողությանը։ Գլյուկոզամին և քոնդրոիտին՝ հոդերի առողջության համար։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_surf_turf_junior.webp'
+    image: 'pictures/dog/Dog&josera_surf_turf_junior.webp'
   },
   'josera_kids': {
     name: 'Josera Kids',
@@ -26,7 +26,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի ձագուկների համար (2–15 ամսական)։',
     description: 'Պարունակում է թռչնամիս։ Պարունակում է Նոր Զելանդական կանաչ միդիաներ՝ հոդերի առողջության համար։ DHA օմեգա սաղմոնի յուղից՝ ուղեղի և տեսողության զարգացման համար։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_kids.webp'
+    image: 'pictures/dog/Dog&josera_kids.webp'
   },
   'josera_sensi_junior': {
     name: 'Josera Sensi Junior',
@@ -34,7 +34,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի ձագուկների համար (2–15 ամսական)։',
     description: 'Պարունակում է թռչնամիս և ձուկ։ Հարմար է զգայուն մարսողություն ունեցող շների համար։ Պարունակում է քիչ ալերգեններ (օրինակ՝ ցորեն)։ Աջակցում է հոդերի և մկանների զարգացմանը։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_sensi_junior.webp'
+    image: 'pictures/dog/Dog&josera_sensi_junior.webp'
   },
   'josera_mini_junior': {
     name: 'Josera Mini Junior',
@@ -42,7 +42,7 @@ const productsData = {
     mini: 'Նախատեսված է փոքր ցեղատեսակի ձագուկների համար (2–10 ամսական)։',
     description: 'Պարունակում է թռչնամիս և ձուկ։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_mini_junior.webp'
+    image: 'pictures/dog/Dog&josera_mini_junior.webp'
   },
   'josera_lamb_sweet_potato': {
     name: 'Josera Lamb & Sweet Potato',
@@ -50,7 +50,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է գառ և կարտոֆիլ։ Հեշտամարս է և նվազեցնում է ալերգիայի ռիսկը։ Բարելավում է մորթու որակը և կանխում մազաթափությունը։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_lamb_sweet_potato.webp'
+    image: 'pictures/dog/Dog&josera_lamb_sweet_potato.webp'
   },
   'josera_duck_sweet_potato': {
     name: 'Josera Duck & Sweet Potato',
@@ -58,7 +58,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է բադ և կարտոֆիլ։ Հեշտամարս է, չի առաջացնում ալերգիա։ Բարելավում է մորթու որակը։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_duck_sweet_potato.webp'
+    image: 'pictures/dog/Dog&josera_duck_sweet_potato.webp'
   },
   'josera_poultry_trout': {
     name: 'Josera Poultry & Trout',
@@ -66,7 +66,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է թռչնամիս և ձուկ։ Բարձր էներգետիկ արժեք՝ հարմար ակտիվ շների համար։ Պարունակում է Լ-կարնիտին և թաուրին՝ մկանների, սրտի և աչքերի առողջության համար։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_poultry_trout.webp'
+    image: 'pictures/dog/Dog&josera_poultry_trout.webp'
   },
   'josera_sensi_adult': {
     name: 'Josera Sensi Adult',
@@ -74,7 +74,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է թռչնամիս և ձուկ։ Հարմար է զգայուն մարսողություն ունեցող շների համար։ Նվազեցնում է ալերգիայի ռիսկը և նպաստում է հոդերի ու մկանների ամրությանը։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_sensi_adult.webp'
+    image: 'pictures/dog/Dog&josera_sensi_adult.webp'
   },
   'josera_lamb_rice': {
     name: 'Josera Lamb & Rice',
@@ -82,7 +82,7 @@ const productsData = {
     mini: 'Նախատեսված է բոլոր ցեղատեսակի հասուն շների համար։',
     description: 'Հեշտամարս, ցածր յուղայնությամբ կեր է՝ ցածր սպիտակուցով և միջին էներգետիկ արժեքով։ Հարմար է ցածր կամ նորմալ ակտիվությամբ շների համար։ Գառնուկը միակ կենդանական սպիտակուցն է։ Հարմար է նաև զգայուն մարսողություն ունեցող շների համար։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_lamb_rice.webp'
+    image: 'pictures/dog/Dog&josera_lamb_rice.webp'
   },
   'josera_festival': {
     name: 'Josera Festival',
@@ -90,7 +90,7 @@ const productsData = {
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է թռչնամիս և ձուկ։ Կարելի է օգտագործել չոր կամ թաց տեսքով։ Պարունակում է Օմեգա 3 և 6՝ մաշկի և մորթու համար։ Հարմար է ակտիվ շների համար։ Պարունակում է կանաչ միդիաներ՝ հոդերի համար։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_festival.webp'
+    image: 'pictures/dog/Dog&josera_festival.webp'
   },
   'josera_large_breed': {
     name: 'Josera Large Breed',
@@ -98,7 +98,7 @@ const productsData = {
     mini: 'Նախատեսված է մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է թռչնամիս և սաղմոնի յուղ։ Պարունակում է կանաչ միդիաներ՝ հոդերի առողջության համար։',
     packaging: '12.5 kg',
-    image: 'pictures/Dog/Dog&josera_large_breed.webp'
+    image: 'pictures/dog/Dog&josera_large_breed.webp'
   },
   'josera_mini_lamb': {
     name: 'Josera Mini Lamb',
@@ -106,7 +106,7 @@ const productsData = {
     mini: 'Նախատեսված է փոքր ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է գառան միս։ Հեշտամարս է, չի առաջացնում ալերգիա։ Բարելավում է մորթու որակը։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_mini_lamb.webp'
+    image: 'pictures/dog/Dog&josera_mini_lamb.webp'
   },
   'josera_mini_duck_potato': {
     name: 'Josera Mini Duck & Potato',
@@ -114,7 +114,7 @@ const productsData = {
     mini: 'Նախատեսված է փոքր ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է բադ և կարտոֆիլ։ Հեշտամարս է և նվազեցնում է ալերգիայի ռիսկը։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_mini_duck_potato.webp'
+    image: 'pictures/dog/Dog&josera_mini_duck_potato.webp'
   },
   'josera_mini_salmon_chicken': {
     name: 'Josera Mini Salmon & Chicken',
@@ -122,7 +122,7 @@ const productsData = {
     mini: 'Նախատեսված է փոքր ցեղատեսակի հասուն շների համար։',
     description: 'Մինի տարբերակ Festival կերի։ Փոքր հատիկներ՝ ավելի լավ համի համար։ Սոուսի փոշին կերը դարձնում է ավելի համեղ։ Պարունակում է սաղմոն և հավ՝ քմահաճ շների համար իդեալական։',
     packaging: '10 kg',
-    image: 'pictures/Dog/Dog&josera_mini_salmon_chicken.webp'
+    image: 'pictures/dog/Dog&josera_mini_salmon_chicken.webp'
   },
 
   // CAT PRODUCTS
