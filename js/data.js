@@ -9,7 +9,7 @@ const productsData = {
     type: 'Գերմանական սուպեր պրեմիում դասի կեր',
     mini: 'Նախատեսված է նորածին ձագերի (1–2 ամսական) համար։',
     description: 'Պարունակում է սաղմոնի միս։ Հարմար է նաև հղիության և կաթնատվության շրջանում գտնվող շների համար։',
-    packaging: '10 kg',
+    packaging: '12.5 kg',
     image: 'pictures/dog/dog-josera_family_plus_mother_puppy_salmon_rice.webp'
   },
   'josera_surf_turf_junior': {
@@ -65,7 +65,7 @@ const productsData = {
     type: 'Գերմանական սուպեր պրեմիում դասի կեր (առանց հացահատիկի)',
     mini: 'Նախատեսված է միջին և մեծ ցեղատեսակի հասուն շների համար։',
     description: 'Պարունակում է թռչնամիս և ձուկ։ Բարձր էներգետիկ արժեք՝ հարմար ակտիվ շների համար։ Պարունակում է Լ-կարնիտին և թաուրին՝ մկանների, սրտի և աչքերի առողջության համար։',
-    packaging: '10 kg',
+    packaging: '12.5 kg',
     image: 'pictures/dog/dog-josera_poultry_trout.webp'
   },
   'josera_sensi_adult': {
